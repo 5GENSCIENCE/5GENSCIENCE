@@ -1,7 +1,6 @@
 [![MasterHead](https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg)
 <h1 align="center">Hi 👋, I'm Gaurav Joshi</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<h2>HTML Image</h2>
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="600" height="433">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5genscience&label=Profile%20views&color=0e75b6&style=flat" alt="5genscience" /> </p>
